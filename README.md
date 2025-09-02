@@ -14,4 +14,4 @@ The folders include codes used during the production of the manuscript.
 ## NOTE
 #### This manuscript has NOT been peer-reviewed yet. Data will be available after the peer review is complete.
 ## Reference
-Yuxiang (Andy) Liu, Yuhan Nong, Jiesi Feng, Guochuan Li, Paul Sajda, Yulong Li, Qi Wang. "Phase synchrony between prefrontal noradrenergic and cholinergic signals indexes inhibitory control". bioRxiv 2024.05.17.594562; doi: https://doi.org/10.1101/2024.05.17.594562
+Liu, Y.A., Nong, Y., Feng, J. et al. Phase synchrony between prefrontal noradrenergic and cholinergic signals indexes inhibitory control. Nat Commun 16, 7260 (2025). https://doi.org/10.1038/s41467-025-62317-5
